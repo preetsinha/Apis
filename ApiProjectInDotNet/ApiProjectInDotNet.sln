@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiProjectInDotNet", "ApiProjectInDotNet\ApiProjectInDotNet.csproj", "{04C202A4-D9A9-4FC5-8E6E-765D7640EE3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseProject", "DatabaseProject\DatabaseProject.csproj", "{D5630773-FF39-4DA4-AACE-C38E9734BD6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C202A4-D9A9-4FC5-8E6E-765D7640EE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C202A4-D9A9-4FC5-8E6E-765D7640EE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C202A4-D9A9-4FC5-8E6E-765D7640EE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C202A4-D9A9-4FC5-8E6E-765D7640EE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5630773-FF39-4DA4-AACE-C38E9734BD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5630773-FF39-4DA4-AACE-C38E9734BD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5630773-FF39-4DA4-AACE-C38E9734BD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5630773-FF39-4DA4-AACE-C38E9734BD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAAD06BF-C12B-4F53-801C-C40E7B820A89}
+	EndGlobalSection
+EndGlobal

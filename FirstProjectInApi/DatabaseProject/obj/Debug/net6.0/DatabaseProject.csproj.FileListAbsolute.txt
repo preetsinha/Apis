@@ -1,0 +1,14 @@
+E:\Apis\FirstProjectInApi\DatabaseProject\obj\Debug\net6.0\DatabaseProject.csproj.AssemblyReference.cache
+E:\Apis\FirstProjectInApi\DatabaseProject\obj\Debug\net6.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Apis\FirstProjectInApi\DatabaseProject\obj\Debug\net6.0\DatabaseProject.AssemblyInfoInputs.cache
+E:\Apis\FirstProjectInApi\DatabaseProject\obj\Debug\net6.0\DatabaseProject.AssemblyInfo.cs
+E:\Apis\FirstProjectInApi\DatabaseProject\obj\Debug\net6.0\DatabaseProject.csproj.CoreCompileInputs.cache
+E:\Apis\FirstProjectInApi\DatabaseProject\bin\Debug\net6.0\DatabaseProject.deps.json
+E:\Apis\FirstProjectInApi\DatabaseProject\bin\Debug\net6.0\DatabaseProject.runtimeconfig.json
+E:\Apis\FirstProjectInApi\DatabaseProject\bin\Debug\net6.0\DatabaseProject.dll
+E:\Apis\FirstProjectInApi\DatabaseProject\bin\Debug\net6.0\DatabaseProject.pdb
+E:\Apis\FirstProjectInApi\DatabaseProject\obj\Debug\net6.0\DatabaseProject.dll
+E:\Apis\FirstProjectInApi\DatabaseProject\obj\Debug\net6.0\refint\DatabaseProject.dll
+E:\Apis\FirstProjectInApi\DatabaseProject\obj\Debug\net6.0\DatabaseProject.pdb
+E:\Apis\FirstProjectInApi\DatabaseProject\obj\Debug\net6.0\DatabaseProject.genruntimeconfig.cache
+E:\Apis\FirstProjectInApi\DatabaseProject\obj\Debug\net6.0\ref\DatabaseProject.dll

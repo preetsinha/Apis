@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RkN6kRW7JnmH8xdZbZmuHVnlP1QgPrAKah5vubiBvew=",
+  "Source": "BookLabraryCrudApi",
+  "BasePath": "_content/BookLabraryCrudApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

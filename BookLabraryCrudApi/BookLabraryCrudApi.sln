@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLabraryCrudApi", "BookLabraryCrudApi\BookLabraryCrudApi.csproj", "{8D2E7968-3200-44C3-B371-CAE79D03DD5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D2E7968-3200-44C3-B371-CAE79D03DD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2E7968-3200-44C3-B371-CAE79D03DD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2E7968-3200-44C3-B371-CAE79D03DD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2E7968-3200-44C3-B371-CAE79D03DD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08914201-9627-4352-8C27-55EB9441FE4D}
+	EndGlobalSection
+EndGlobal
